@@ -57,5 +57,5 @@ The project includes visualizations covering:
 * The decline in revenue during 2024 may require further investigation to identify underlying causes.
 
 ## Project Files
-* Python file: [Ecommerce_Analysis.ipynb]
-* Dataset: [ecommerce_sales_dataset.csv]
+* Python file: (Ecommerce_Analysis.ipynb)
+* Dataset: (ecommerce_sales_dataset.csv)
