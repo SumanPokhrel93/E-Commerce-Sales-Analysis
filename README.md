@@ -41,13 +41,18 @@ The analysis focused on key business metrics and performance indicators, includi
 
 ## Visualizations
 The project includes visualizations covering:
-
-* Revenue by Category
-* Profit by Category
-* Revenue by Region
-* Profit by Customer Segment
-* Monthly Revenue Trend
-* Top 10 Products by Revenue
+- Revenue by Category
+![Revenue by Category](Images/Revenue by Category.png)
+- Profit by Customer Segments
+![Profit by Category](Images/Profit by Customer Segments.png)
+- Revenue by Region
+![Revenue by Region](Images/Revenue by Region.png)
+- Shipping Cost of different Methods
+![Shipping Cost of different Methods](Images/Shipping Cost of different Methods.png)
+- Monthly Revenue Trend
+![Monthly Revenue Trend Line](Images/Monthly Revenue Trend line.png)
+- Top 10 Products by Revenue
+![Best Performing Products](Images/Best Performing Products.png)
 
 ## Conclusion
 * The business demonstrates strong overall profitability with substantial revenue generation.
